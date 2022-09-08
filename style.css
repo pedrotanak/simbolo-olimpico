@@ -1,0 +1,11 @@
+.atributo{
+    background-size: cover;
+    background-position: center;
+    background-image: url("bg1.jpg");
+    text-align: center;
+}
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+}
